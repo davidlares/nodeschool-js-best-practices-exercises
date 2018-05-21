@@ -1,0 +1,7 @@
+TDD
+--
+	Using Test-Driven Development:
+
+		- you write the tests for the functionality that you want to implement first. 
+
+		- you write the code for the method so that the tests you initially wrote. 
