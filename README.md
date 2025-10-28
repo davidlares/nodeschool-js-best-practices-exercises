@@ -1,4 +1,4 @@
-## JS Practices
+## JS Best Practices
 
 Example of separation of concerns. Code modularization and application of SOLID principles in a JavaScript project (Vending Machine)
 
