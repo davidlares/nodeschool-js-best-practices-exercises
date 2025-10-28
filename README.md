@@ -1,15 +1,11 @@
-## DavidJSPractices
+## JS Practices
 
-Ejemplo de separacion de Intereses. modularizacion de codigo y aplicacion de los principios SOLID en un proyecto en Javascript (Vending Machine)
+Example of separation of concerns. Code modularization and application of SOLID principles in a JavaScript project (Vending Machine)
 
-Parte de los NodeSchool Workshops
+Part of NodeSchool's Workshops
 
-## Créditos
-- [David E Lares S](https://twitter.com/@davidlares3)
+## Credits
+[David Lares S](https://davidlares.com)
 
-## NodeSchool Workshop
-- https://github.com/excellalabs/js-best-practices-workshopper/
-
-## Licencia
-
+## License
 [MIT](https://opensource.org/licenses/MIT)
